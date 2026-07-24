@@ -1,0 +1,1 @@
+Project OverviewName: Super Pirate WorldLanguage: Python 3.xLibrary: PygamePurpose: College programming assignment demonstrating object-oriented design and game loops.FeaturesPlayer movement, jumping, and gravity physics.Interactive enemy entities and coin collection mechanics.Level rendering using surface groups and custom asset management.
